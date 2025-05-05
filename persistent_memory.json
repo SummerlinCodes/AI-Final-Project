@@ -1,0 +1,153 @@
+{
+  "student_name": "Brandon",
+  "knowledge_level": "intermediate",
+  "last_sessions": [
+    {
+      "topic": "Python for loops",
+      "model": "llama3",
+      "datetime": "2025-05-05 08:45",
+      "summary": "Learned how to iterate over lists and dictionaries using for loops.",
+      "recommended_next": "nested loops",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "basic chords and intervals",
+      "model": "mistral",
+      "datetime": "2025-05-05 09:10",
+      "summary": "Covered root notes, major triads, and guitar fretboard shapes.",
+      "recommended_next": "barre chords",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "How do i do for loops in pytho",
+      "model": "llama3",
+      "datetime": "2025-05-05 12:18",
+      "summary": "**For Loops in Python: A Beginner's Guide**\n\nHey there! Are ",
+      "recommended_next": "advanced loops",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "numbers = [1, 2, 3, 4, 5]  for",
+      "model": "llama3",
+      "datetime": "2025-05-05 12:19",
+      "summary": "**That's Correct!**\n\nYou wrote a for loop that prints the nu",
+      "recommended_next": "advanced loops",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "can you show me all the import",
+      "model": "mistral",
+      "datetime": "2025-05-05 12:20",
+      "summary": " Of course! Let's start with some essential open position gu",
+      "recommended_next": "guitar scales",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "so what do the numbers stand f",
+      "model": "mistral",
+      "datetime": "2025-05-05 12:21",
+      "summary": " I apologize if my previous response wasn't clear or helpful",
+      "recommended_next": "advanced loops",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "how would i make my own ai cha",
+      "model": "deepseek-coder-v2",
+      "datetime": "2025-05-05 12:23",
+      "summary": " Creating your own AI chatbot in Python is an exciting proje",
+      "recommended_next": "advanced loops",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "what are main chords i need to",
+      "model": "mistral",
+      "datetime": "2025-05-05 12:29",
+      "summary": " Hello there! I'm excited to help you explore the world of m",
+      "recommended_next": "guitar scales",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "What are the main chords I nee",
+      "model": "mistral",
+      "datetime": "2025-05-05 12:33",
+      "summary": " Hello there! Let's dive into the wonderful world of music w",
+      "recommended_next": "guitar scales",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "Considering I started off a C+",
+      "model": "llama3",
+      "datetime": "2025-05-05 12:33",
+      "summary": "A C++ developer looking to learn Python! That's awesome!\n\nYo",
+      "recommended_next": "advanced loops",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "option b",
+      "model": "llama3",
+      "datetime": "2025-05-05 12:34",
+      "summary": "That is CORRECT!\n\nA `for` loop in Python is used to iterate ",
+      "recommended_next": "advanced loops",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    },
+    {
+      "topic": "b",
+      "model": "llama3",
+      "datetime": "2025-05-05 12:35",
+      "summary": "That is CORRECT!\n\nThe `.items()` method in a Python dictiona",
+      "recommended_next": "advanced loops",
+      "score": "n/a",
+      "difficulty": "intermediate"
+    }
+  ],
+  "quiz_memory": {
+    "Brandon": {
+      "topic_counts": {
+        "python": 1
+      },
+      "current_quiz": null,
+      "correct": 0,
+      "wrong": 4,
+      "streak": 0,
+      "difficulty": "easy",
+      "attempt_log": [
+        {
+          "question": "Type the syntax to create a list with the numbers 1 to 5.",
+          "your_answer": "hello?",
+          "correct_answer": "[1, 2, 3, 4, 5]",
+          "correct": false
+        },
+        {
+          "question": "Type the syntax to create a list with the numbers 1 to 5.",
+          "your_answer": "What major guitar chords do I need to know as a beginner starting off? Also can you show me a representation of them? I grasp visual imagery better",
+          "correct_answer": "[1, 2, 3, 4, 5]",
+          "correct": false
+        },
+        {
+          "question": "Type the keyword used to end a function in Python.",
+          "your_answer": "can you show me representations of the major chords?",
+          "correct_answer": "return",
+          "correct": false
+        },
+        {
+          "question": "Type the keyword used to end a function in Python.",
+          "your_answer": "DADACD",
+          "correct_answer": "return",
+          "correct": false
+        }
+      ],
+      "quiz_ready": false
+    }
+  }
+}

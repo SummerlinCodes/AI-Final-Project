@@ -1,0 +1,22 @@
+{
+  "C major": {
+    "fingering": "x32010",
+    "diagram": "diagrams/C_major.png"
+  },
+  "G major": {
+    "fingering": "320003",
+    "diagram": "diagrams/G_major.png"
+  },
+  "D major": {
+    "fingering": "xx0232",
+    "diagram": "diagrams/D_major.png"
+  },
+  "E minor": {
+    "fingering": "022000",
+    "diagram": "diagrams/E_minor.png"
+  },
+  "A minor": {
+    "fingering": "x02210",
+    "diagram": "diagrams/A_minor.png"
+  }
+}

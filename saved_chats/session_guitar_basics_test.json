@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "What are the main types of guitar chords to start with?"
+  },
+  {
+    "role": "assistant",
+    "content": "Start with open chords like C, G, D, Em, Am. These are easier and form the basis for many songs."
+  }
+]

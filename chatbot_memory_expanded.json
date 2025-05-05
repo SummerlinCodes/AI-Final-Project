@@ -1,0 +1,20 @@
+{
+  "student_name": "Brandon",
+  "knowledge_level": "intermediate",
+  "last_sessions": [
+    {
+      "topic": "Python for loops",
+      "model": "llama3",
+      "datetime": "2025-05-05 08:45",
+      "summary": "Learned how to iterate over lists and dictionaries using for loops.",
+      "recommended_next": "nested loops, comprehensions"
+    },
+    {
+      "topic": "basic chords and intervals",
+      "model": "mistral",
+      "datetime": "2025-05-05 08:45",
+      "summary": "Covered root notes, major triads, and guitar fretboard shapes.",
+      "recommended_next": "barre chords or chord progression practice"
+    }
+  ]
+}
