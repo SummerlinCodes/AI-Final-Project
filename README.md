@@ -65,9 +65,9 @@ pip install -r requirements.txt
 (Make sure you've pulled the necessary models)
 
 ```bash
-ollama run llama3
-ollama run deepseek-coder:latest
-ollama run mistral
+ollama pull llama3
+ollama pull deepseek-coderv2
+ollama pull mistral
 ```
 
 4. **Run the chatbot UI**
